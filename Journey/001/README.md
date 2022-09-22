@@ -2,7 +2,7 @@
 
 ## Intro
 
-On this Day 1 I tried to learn:
+On Day 1 I tried to learn:
 - What is Backend Development
 
 ## Content
@@ -19,6 +19,5 @@ Writing organized extensible testable code, organization of logic and Data and c
 
 ## Resource
 
-[How backend works](https://youtu.be/4r6WdaY3SOA)
-    
-[Guide to Backend Development](https://www.upwork.com/resources/beginners-guide-back-end-development)
+- [How backend works](https://youtu.be/4r6WdaY3SOA)
+- [Guide to Backend Development](https://www.upwork.com/resources/beginners-guide-back-end-development)
